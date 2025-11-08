@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photofolioReact/static/css/main.78c4a238.css",
+    "main.js": "/photofolioReact/static/js/main.40e0b561.js",
+    "static/js/453.cb916aad.chunk.js": "/photofolioReact/static/js/453.cb916aad.chunk.js",
+    "index.html": "/photofolioReact/index.html",
+    "main.78c4a238.css.map": "/photofolioReact/static/css/main.78c4a238.css.map",
+    "main.40e0b561.js.map": "/photofolioReact/static/js/main.40e0b561.js.map",
+    "453.cb916aad.chunk.js.map": "/photofolioReact/static/js/453.cb916aad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c4a238.css",
+    "static/js/main.40e0b561.js"
+  ]
+}
